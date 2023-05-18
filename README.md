@@ -1,5 +1,6 @@
-# micro
-Microeconomics Lectures
+# Microeconomics Lectures
 
+## Equilibrium Analysis
 
-[click here](https://github.com/sureshlazaruspaul/micro/blob/main/eqAnalysis/demand-1/index.html#/title-slide)
+- Income Increase and Normal Good, click [here](https://github.com/sureshlazaruspaul/micro/blob/main/eqAnalysis/demand-1)
+- Income Increase and Inferior Good, click [here](https://github.com/sureshlazaruspaul/micro/blob/main/eqAnalysis/demand-2)
