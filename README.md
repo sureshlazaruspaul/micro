@@ -2,4 +2,4 @@
 Microeconomics Lectures
 
 
-[click here](https://github.com/sureshlazaruspaul/micro/blob/main/eqAnalysis/demand-1/index.html)
+[click here](https://github.com/sureshlazaruspaul/micro/blob/main/eqAnalysis/demand-1/)
